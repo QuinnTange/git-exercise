@@ -1,4 +1,4 @@
-# Chapter 1
+# New Beginnings
 
 In the bustling hallways of Lincoln High School, a group of students gathered in the computer lab, their minds buzzing with excitement. They had a challenge ahead of them - to create a 2D fighting game with tanks as the main characters. This ambitious project was the brainchild of Sam, a tech-savvy junior who had a passion for game development.
 
