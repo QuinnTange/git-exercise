@@ -1,4 +1,4 @@
-# Chapter 2
+# Moving Cogs
 
 The rest of the team nodded in agreement, intrigued by Jake's concept. Emily quickly got to work, sketching out designs for the tanks and the game environment. She envisioned the tanks as heavily armored machines, each with their own unique abilities and weapons.
 
